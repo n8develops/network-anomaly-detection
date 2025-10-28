@@ -1,0 +1,21 @@
+# virtual environments
+venv/
+.env/
+
+# large / raw data
+CICIDS2017/
+data/
+*.csv
+*.pcap*
+*.zip
+*.gz
+*.7z
+
+# jupyter notebook checkpoints
+.ipynb_checkpoints/
+ipynb_checkpoints/
+
+# OS junk
+.DS_Store
+Thumbs.db
+
